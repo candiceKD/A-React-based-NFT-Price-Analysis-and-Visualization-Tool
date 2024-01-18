@@ -1,3 +1,5 @@
+![NFT Tool demo](https://github.com/candiceKD/A-React-based-NFT-Price-Analysis-and-Visualization-Tool/assets/144402516/68bf5166-98d6-4272-bbc6-13e0760e66d2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
